@@ -10,7 +10,6 @@
 //#pragma comment(lib,"Msimg32.lib")
 #include <math.h>
 //#include <time.h>
-#include "HSLDefine.h"
 //#define M_PI   3.14159265358979323846264338327950288
 //typedef NTSTATUS(NTAPI* NRHEdef)(NTSTATUS, ULONG, ULONG, PULONG, ULONG, PULONG);
 //typedef NTSTATUS(NTAPI* RAPdef)(ULONG, BOOLEAN, BOOLEAN, PBOOLEAN);
